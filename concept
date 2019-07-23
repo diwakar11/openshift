@@ -1,5 +1,7 @@
+------------------------------------------------------------------------------
 # pwd
 /etc/origin/master
 
 # vi master-config.yaml
 masterPublicURL: https://orgchart.openshift.sdntest.netcracker.com:8443
+------------------------------------------------------------------------------
